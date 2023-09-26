@@ -20,8 +20,12 @@ public class Catcher : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        //Debug.Log(other.name);
-        _gameManager.ResetBallPos();
+        if (other.CompareTag("Ball"))
+        { 
+            //Debug.Log(other.name);
+            _gameManager.ResetBallPos();
+        
+        }
     }
 
 

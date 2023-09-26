@@ -10,7 +10,7 @@ public class rotateBox : MonoBehaviour
     int counter = 0; // Initialization of counter used to change random rotation.
 
     [SerializeField]
-    float threshold = 250; // The higher the number, the less often the object will change its rotate values.
+    float threshold = 500; // The higher the number, the less often the object will change its rotate values.
 
     [SerializeField]
     float spinFactor = 0.5f; // Initialization of how quickly the object rotates.
@@ -33,7 +33,7 @@ public class rotateBox : MonoBehaviour
     {
         xRotate = Random.Range(0, 0); // This method is used to change the rotation.
         yRotate = Random.Range(0, 0);
-        zRotate = Random.Range(1, 360);
+        zRotate = Random.Range(1, 1080);
     }
 
 }
