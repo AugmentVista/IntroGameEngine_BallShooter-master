@@ -1,0 +1,12 @@
+I didn't begin any of the level designs with any grand scheme, 
+which is unusal for me. Most cases I have a dozen ideas that are
+all far beyond the scope of whatever I am doing and end up drowning
+in the process to simplify an unrealistic aspiration. 
+With this I didn't, I just started building something and testing it
+as i went along. I had used some colors for color coding the levels
+to determine which scene they belonged to based on difficulty. 
+I don't know how to create a default probuilder material and they go
+pink when i delete the textures so I hope this isn't rough on the eyes.
+I plan to investigate this approach to design based on feedback I 
+get on this project, if just going at something rather than trying
+to plan its entire existance prior is a better approach. 
